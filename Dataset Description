@@ -1,0 +1,26 @@
+The dataset contains information about the ‘Amazing Mart’, with each row representing individual order list details
+
+Order List
+
+Order ID: This is a unique identifier for each order placed
+Order Date: The date on which the order was placed
+Customer Name: The name of the customer who placed the order
+City: The city where the customer is located
+Country: The country where the customer is located
+Region: The region or geographical area to which the customer belongs
+Segment: The segment to which the customer belongs, e.g., Consumer, Corporate, or Home Office
+Ship Date: The date on which the order was shipped
+Ship Mode: The mode of shipping for the order, such as Economy Plus or Priority
+State: The specific state within the country where the customer is located
+
+Order Breakdown
+
+Order ID: This is a unique identifier for each order placed
+Product Name: The name of the product being sold
+Discount: The discount applied to the product, expressed as a decimal (0.5 = 50% discount)
+Sales: The total sales amount for the product in the order
+Profit: The profit made from the sale of the product in the order
+Quantity: The quantity of the product being sold
+Category: The broad category to which the product belongs (e.g., Office Supplies, Furniture, Technology)
+
+Sub-Category: A more specific sub-category within the broader category (e.g., Paper, Bookcases, Art, Chairs, etc.)
